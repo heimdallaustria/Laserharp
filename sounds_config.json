@@ -1,0 +1,46 @@
+{
+  "pentatonic": [
+    "Samples/Harp/C2.wav",
+    "Samples/Harp/D2.wav",
+    "Samples/Harp/E2.wav",
+    "Samples/Harp/G2.wav",
+    "Samples/Harp/A2.wav",
+    "Samples/Harp/C4.wav",
+    "Samples/Harp/D4.wav",
+    "Samples/Harp/E4.wav",
+    "Samples/Harp/G4.wav",
+    "Samples/Harp/A4.wav",
+    "Samples/Harp/C5.wav",
+    "Samples/Harp/D5.wav"
+  ],
+
+  "c2maj": [
+    "Samples/Harp/C2.wav",
+    "Samples/Harp/D2.wav",
+    "Samples/Harp/E2.wav",
+    "Samples/Harp/F2.wav",
+    "Samples/Harp/G2.wav",
+    "Samples/Harp/A2.wav",
+    "Samples/Harp/B2.wav",
+    "Samples/Harp/C3.wav",
+    "Samples/Harp/D3.wav",
+    "Samples/Harp/E3.wav",
+    "Samples/Harp/F3.wav",
+    "Samples/Harp/G3.wav"
+  ],
+
+  "drums": [
+    "Samples/Drums/Tom Low.wav",
+    "Samples/Drums/Mid_Tom.wav",
+    "Samples/Drums/High_Tom.wav",
+    "Samples/Drums/Kick.wav",
+    "Samples/Drums/Ride_Crash.wav",
+    "Samples/Drums/Snare.wav",
+    "Samples/Drums/Sticks.wav",
+    "Samples/Drums/Hat_Bell.wav",
+    "Samples/Drums/Closed Hat.wav",
+    "Samples/Drums/Cowbell.wav",
+    "Samples/Drums/Crash.wav",
+    "Samples/Drums/Crash_Damped.wav"
+  ]
+}
